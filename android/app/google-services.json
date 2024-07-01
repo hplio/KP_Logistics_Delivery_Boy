@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015563287413",
+    "project_id": "kp-logistics",
+    "storage_bucket": "kp-logistics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015563287413:android:ad2e94e84ead029686313c",
+        "android_client_info": {
+          "package_name": "com.esparse.lalogistics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1hX-beU1POJnxemo7j7mmjwV1RHTCheU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
